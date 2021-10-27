@@ -1,1 +1,3 @@
 # rensyu
+
+git難しい
